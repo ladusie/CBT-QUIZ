@@ -1,0 +1,30 @@
+.main{
+    width: 30%;
+    height: 20%;
+    border: 20px solid rgb(125, 5, 238);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: cadetblue;
+
+
+}
+#screen{
+    width: 98%;
+    height: 90px;
+    border: none;
+}
+/* #screen1{
+    width: 98%;
+    height: 50px;
+    border: none;
+} */
+
+button{
+    width: 20%;
+    height: 60px;
+    background-color: brown;
+    margin: 10px 0px 5px 8px;
+    border: 5px solid black;
+    font-size: 1.5rem;
+}
